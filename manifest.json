@@ -1,0 +1,43 @@
+{
+    "short_name": "ToWhats",
+    "name": "ToWhats",
+    "description": "Send a message to any number on WhatsApp without saving it to your contacts",
+    "display": "standalone",
+    "start_url": "/index.html",
+    "background_color": "#25d366",
+    "icons": [
+        {
+            "src": "./media/icons/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "./media/icons/icon-256x256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "./media/icons/icon-384x384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "./media/icons/icon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "./media/screenshots/desktop.png",
+            "type": "image/png",
+            "sizes": "782x535",
+            "form_factor": "wide"
+        },
+        {
+            "src": "./media/screenshots/mobile.png",
+            "type": "image/png",
+            "sizes": "376x667"
+        }
+    ]
+}
